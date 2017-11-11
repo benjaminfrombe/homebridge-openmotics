@@ -1,0 +1,32 @@
+{
+  "name": "homebridge-openmotics",
+  "description": "OpenMotics plugin for homebridge: https://github.com/nfarina/homebridge",
+  "author": "DaGolle",
+  "license": "ISC",
+  "version": "0.0.1",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin",
+    "homekit",
+    "openmotics"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "homebridge-lib": "^0.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DaGolle/homebridge-openmotics.git"
+  },
+  "bugs": {
+    "url": "http://github.com/DaGolle/homebridge-openmotics/issues"
+  },
+  "homepage": "https://github.com/DaGolle/homebridge-openmotics#readme"
+}
